@@ -54,13 +54,12 @@ Se deseja contribuir para este repositório, siga estas etapas:
 
 ## Autor
 
-[Seu Nome]
+Pedro Nasciemnto 
 
 ## Agradecimentos
 
 Agradecemos à Digital Innovation One por fornecer este curso.
-
+https://web.dio.me/project/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e
 ---
 
-**Nota:** Este README é um exemplo genérico. Certifique-se de ajustar as seções conforme necessário e adicionar informações específicas do curso.
 
